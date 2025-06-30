@@ -637,10 +637,6 @@ export default function JSPECWebsite() {
                         {translations.contact.headOffice}
                       </h4>
                       <p className="text-gray-600">
-                        F1B-Block, Guru Orchid, David Nagar
-                        <br />
-                        New Perungalathur
-                        <br />
                         Chennai 600063, India
                       </p>
                     </div>
