@@ -862,7 +862,7 @@ export default function JSPECWebsite() {
                       className="inline-flex items-center justify-center w-full bg-gradient-to-r from-[#616a71] to-[#4a5258] text-white font-bold py-4 px-6 rounded-xl hover:from-[#4a5258] hover:to-[#3a424a] transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
                     >
                       <Phone className="w-5 h-5 mr-3" />
-                      +91 94450713399
+                      +91 94450 71399
                     </a>
                     <p className="text-xs text-gray-500 mt-3">{translations.contact.availableForEmergencies}</p>
                   </div>
