@@ -115,6 +115,20 @@ export async function fetchProjects(): Promise<Project[]> {
       location: "Maharashtra, India",
       startDate: "2023-04-15",
     },
+    {
+      id: "5",
+      title: "Chennai Metro Project",
+      client: "RVNL",
+      Sub contractor: "L&T",
+      description: "Erection & PT works",
+      status: "On progress",
+      progress: 60,
+      tags: ["LG Systems", "Segments"],
+      videoUrl: "/placeholder-video.mp4",
+      imageUrl: "/placeholder.svg?height=300&width=400&text=Pune+Metro",
+      location: "Maharashtra, India",
+      startDate: "2023-04-15",
+    },
   ]
 }
 
