@@ -119,7 +119,7 @@ export async function fetchProjects(): Promise<Project[]> {
       id: "5",
       title: "Chennai Metro Project",
       client: "RVNL",
-      Sub contractor: "L&T",
+      Subcontractor: "L&T",
       description: "Erection & PT works",
       status: "On progress",
       progress: 60,
